@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add Horizontal line",
+        "answer_4": "To Add Break line",
+        "right_answer": "To Add Break line"
+    },
+    {
+        "title": "Why We Use <hr> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_4": "To Add Horizontal line",
+        "right_answer": "To Add Horizontal line",
+        "answer_3": "To Add Break line"
+    },
+    {
+        "title": "Why We Use <h> Element",
+        "right_answer": "To Add Addrees",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To add Text",
+        "answer_3": "To Add Horizontal line",
+        "answer_4": "To Add Addrees"
+        
+    },
+    {
+        "title": "Is <img> Element Has Attrebute href",
+        "answer_1": "Yes",
+        "answer_2": "All Elements Have This Attrebute",
+        "answer_3": "Customizing It With font-size Property",
+        "answer_4": "All Answer Are Right",
+        "right_answer": "All Answer Are Right"
+    },
+    {
+        "title": "How Can We Make Element Text Bold",
+        "answer_1": "Putting It Inside <b> Tag",
+        "answer_2": "Putting It Inside <strong> Tag",
+        "answer_3": "To Add Break line",
+        "answer_4": "To Add Horizontal line",
+        "right_answer": "To Add Break line"
+    },
+    {
+        "title": "How Can We Make Element Hidden",
+        "answer_1": "Customizing It With display:hidden Property",
+        "answer_2": "Putting It Inside <hidden> Tag",
+        "answer_3": "Putting It Inside <delete> Tag",
+        "answer_4": "All Answer Are Right",
+        "right_answer": "Customizing It With display:hidden Property"
+    },
+    {
+        "title": "Why We Use <a> Element",
+        "right_answer": "To Add Link",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add image"       
+    },
+    {
+        "title": "In HTML Can We Use This Way To Add Attrebute",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "All Answer Are Right",
+        "answer_4": "<div class= class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "right_answer": "All Answer Are Right"
+    },
+    {
+        "title": "What Is The Element Thats Not Exists In HTML5 Semantics",
+        "answer_1": "<article>",
+        "right_answer": "<blockquote>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>"
+    },
+    {
+        "title": "How Can We Include External Page Inside Our HTML Page",
+        "right_answer": "By Using Tag in HTML",
+        "answer_1": "By Using Tag in HTML",
+        "answer_4": "By Using Include in HTML",
+        "answer_2": "By Using Load in HTML",
+        "answer_3": "By Using iFrame in HTML"
+    },
+    {
+        "title": "How Can We Make Element Hidden",
+        "answer_1": "Customizing It With display:hidden Property",
+        "answer_2": "Putting It Inside <hidden> Tag",
+        "answer_3": "Putting It Inside <delete> Tag",
+        "answer_4": "All Answer Are Right",
+        "right_answer": "Customizing It With display:hidden Property"
+    },
+    {
+        "title": "Why We Use <a> Element",
+        "right_answer": "To Add Link",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make Text Italic",
+        "answer_3": "To Add image"       
+    },
+    {
+        "title": "In HTML Can We Use This Way To Add Attrebute",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "All Answer Are Right",
+        "answer_4": "<div class= class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "right_answer": "All Answer Are Right"
+    },
+    {
+        "title": "What Is The Element Thats Not Exists In HTML5 Semantics",
+        "answer_1": "<article>",
+        "right_answer": "<blockquote>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>"
+    },
+    {
+        "title": "How Can We Include External Page Inside Our HTML Page",
+        "right_answer": "By Using Tag in HTML",
+        "answer_1": "By Using Tag in HTML",
+        "answer_4": "By Using Include in HTML",
+        "answer_2": "By Using Load in HTML",
+        "answer_3": "By Using iFrame in HTML"
+    }
+]
